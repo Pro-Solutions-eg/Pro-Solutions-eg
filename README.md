@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="./robot-welcome.gif" width="42" alt="Welcome Robot"/>
+  <img src="./modern-robot-welcome.gif" width="52" alt="Modern Welcome Robot"/>
   Welcome to Pro Solutions
 </h1>
 
@@ -25,7 +25,7 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 
 ---
 
-## 🚀 About Pro Solutions
+## About Pro Solutions
 
 <div align="center">
 

@@ -363,13 +363,17 @@ We provide user training, go-live support, and continuous improvement after impl
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Presence
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pro-Solutions-eg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=714B67" alt="Pro Solutions GitHub Stats" width="48%"/>
+<img src="https://img.shields.io/badge/GitHub-Pro--Solutions--eg-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://streak-stats.demolab.com?user=Pro-Solutions-eg&theme=tokyonight&hide_border=true&background=0D1117&stroke=714B67&ring=714B67&fire=714B67&currStreakLabel=C9D1D9" alt="Pro Solutions GitHub Streak" width="48%"/>
+<img src="https://img.shields.io/badge/Profile-Active-714B67?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Odoo%20Development-ERP%20Solutions-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Business%20Automation-Consulting-34495E?style=for-the-badge"/>
 
 </div>
 
@@ -398,7 +402,7 @@ Looking to implement Odoo, automate your business, improve financial control, or
 ### 📧 Email
 
 <a href="mailto:Info@prosolutionseg.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Contact%20Us-Email-714B67?style=for-the-badge&logo=mail&logoColor=white&labelColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Contact%20Us-Email-714B67?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937"/>
 </a>
 
 <br/>
@@ -411,7 +415,7 @@ Looking to implement Odoo, automate your business, improve financial control, or
 ### 🌐 Website
 
 <a href="https://prosolutionseg.com">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visit-Website-005B96?style=for-the-badge&logo=globe&logoColor=white&labelColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Visit-Website-005B96?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F2937"/>
 </a>
 
 <br/>
@@ -424,7 +428,7 @@ Looking to implement Odoo, automate your business, improve financial control, or
 ### 💼 LinkedIn
 
 <a href="https://www.linkedin.com/company/pro-finance-consulting/">
-  <img src="https://custom-icon-badges.demolab.com/badge/Follow-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937"/>
 </a>
 
 <br/>
@@ -437,7 +441,7 @@ Looking to implement Odoo, automate your business, improve financial control, or
 ### 📱 WhatsApp
 
 <a href="https://wa.me/201021888448">
-  <img src="https://custom-icon-badges.demolab.com/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1F2937"/>
 </a>
 
 <br/>

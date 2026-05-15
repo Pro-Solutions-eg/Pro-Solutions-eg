@@ -379,37 +379,58 @@ We provide user training, go-live support, and continuous improvement after impl
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+### Ready to build a smarter business with Odoo?
+
+<p>
+For ERP implementation, business automation, accounting consulting, or Odoo support, connect with Pro Solutions through any of the channels below.
+</p>
+
+<br/>
 
 <a href="mailto:Info@prosolutionseg.com">
-  <img src="https://img.shields.io/badge/Email%20Us-Info%40prosolutionseg.com-714B67?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/📧%20Email%20Us-Info%40prosolutionseg.com-714B67?style=for-the-badge&labelColor=1F2937" height="42"/>
 </a>
 
-</td>
-<td align="center">
-
-<a href="https://prosolutionseg.com">
-  <img src="https://img.shields.io/badge/Visit%20Website-prosolutionseg.com-005B96?style=for-the-badge&logo=google-chrome&logoColor=white" height="42"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<a href="https://www.linkedin.com/company/pro-finance-consulting/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pro%20Finance%20Consulting-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
-</a>
-
-</td>
-<td align="center">
+&nbsp;
 
 <a href="https://wa.me/201021888448">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/💬%20WhatsApp-Chat%20Now-25D366?style=for-the-badge&labelColor=1F2937" height="42"/>
 </a>
+
+<br/>
+<br/>
+
+<a href="https://prosolutionseg.com">
+  <img src="https://img.shields.io/badge/🌐%20Website-prosolutionseg.com-005B96?style=for-the-badge&labelColor=1F2937" height="42"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/company/pro-finance-consulting/">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Pro%20Finance%20Consulting-0A66C2?style=for-the-badge&labelColor=1F2937" height="42"/>
+</a>
+
+<br/>
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📧 Email  
+**Info@prosolutionseg.com**
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Website  
+**prosolutionseg.com**
+
+</td>
+<td align="center" width="33%">
+
+### 📱 WhatsApp  
+**+20 102 1888 448**
 
 </td>
 </tr>

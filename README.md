@@ -22,7 +22,7 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 
 ---
 
-## About Pro Solutions
+## 🚀 About Pro Solutions
 
 <div align="center">
 
@@ -75,13 +75,6 @@ We build Odoo environments that are easy to use, easy to control, and ready to g
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Odoo%20Partner-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERP%20Implementation-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Automation-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Accounting%20Consulting-714B67?style=for-the-badge"/>
-</p>
 
 </div>
 

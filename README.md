@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>
-  <img src="./modern-robot-welcome.gif" width="52" alt="Modern Welcome Robot"/>
-  Welcome to Pro Solutions
+  <img src="./modern-robot-welcome.gif" width="68" alt="Modern Welcome Robot"/>
+  &nbsp; Welcome to Pro Solutions
 </h1>
 
 <p>

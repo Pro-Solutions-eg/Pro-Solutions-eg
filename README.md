@@ -377,22 +377,69 @@ We provide user training, go-live support, and continuous improvement after impl
 
 ## 🤝 Let's Connect
 
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 📧  
+**Email**
+
+<a href="mailto:Info@prosolutionseg.com">
+Info@prosolutionseg.com
+</a>
+
+</td>
+<td align="center" width="25%">
+
+### 🌐  
+**Website**
+
+<a href="https://prosolutionseg.com">
+prosolutionseg.com
+</a>
+
+</td>
+<td align="center" width="25%">
+
+### 💼  
+**LinkedIn**
+
+<a href="https://www.linkedin.com/company/pro-finance-consulting/">
+Pro Finance Consulting
+</a>
+
+</td>
+<td align="center" width="25%">
+
+### 📱  
+**WhatsApp**
+
+<a href="https://wa.me/201021888448">
++20 102 1888 448
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
 <a href="mailto:Info@prosolutionseg.com">
-  <img src="https://img.shields.io/badge/Email-Info@prosolutionseg.com-714B67?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send%20Email-714B67?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://prosolutionseg.com">
-  <img src="https://img.shields.io/badge/Website-prosolutionseg.com-005B96?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit%20Website-005B96?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/company/pro-finance-consulting/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pro%20Finance%20Consulting-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/201021888448">
-  <img src="https://img.shields.io/badge/WhatsApp-+20%20102%201888%20448-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </div>

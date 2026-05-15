@@ -24,9 +24,41 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 
 ## 🚀 About Pro Solutions
 
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🚀 From Manual Work to Smart ERP Operations
+
 **Pro Solutions** is an Odoo Partner specialized in **ERP Implementation, Business Automation, Accounting Consulting, and Digital Transformation**.
 
 We help businesses move from manual processes, scattered Excel sheets, and disconnected workflows into a fully integrated ERP environment using **Odoo**.
+
+</td>
+<td width="40%" valign="top">
+
+### ⚡ What We Enable
+
+- Integrated business workflows  
+- Better financial control  
+- Real-time reporting visibility  
+- Scalable Odoo structure  
+- Practical user adoption  
+
+</td>
+</tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo%20Partner-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERP%20Implementation-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Automation-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accounting%20Consulting-714B67?style=for-the-badge"/>
+</p>
+
+</div>
 
 ---
 

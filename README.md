@@ -1,6 +1,9 @@
 <div align="center">
 
-<h1>👋 Welcome to Pro Solutions</h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="waving hand"/>
+  Welcome to Pro Solutions
+</h1>
 
 <p>
   <img src="./prosolutions-logo-final.png.png" alt="Pro Solutions Logo" width="160"/>

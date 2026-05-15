@@ -22,36 +22,61 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 
 ---
 
-## 🚀 About Pro Solutions
+## About Pro Solutions
 
 <div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
-### 🚀 From Manual Work to Smart ERP Operations
+<h3 align="center">Turning Business Complexity into a Connected Odoo System</h3>
 
-**Pro Solutions** is an Odoo Partner specialized in **ERP Implementation, Business Automation, Accounting Consulting, and Digital Transformation**.
+<p align="center">
+<strong>Pro Solutions</strong> is an Odoo Partner focused on helping companies build smarter, more controlled, and scalable business operations through Odoo ERP.
+</p>
 
-We help businesses move from manual processes, scattered Excel sheets, and disconnected workflows into a fully integrated ERP environment using **Odoo**.
-
-</td>
-<td width="40%" valign="top">
-
-### ⚡ What We Enable
-
-- Integrated business workflows  
-- Better financial control  
-- Real-time reporting visibility  
-- Scalable Odoo structure  
-- Practical user adoption  
+<p align="center">
+We combine <strong>ERP implementation</strong>, <strong>business automation</strong>, <strong>accounting consulting</strong>, and <strong>digital transformation</strong> to move businesses from scattered manual work into one connected operational and financial environment.
+</p>
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<h3>Business Clarity</h3>
+
 <p>
+We analyze current workflows, pain points, and operational gaps to design a practical Odoo structure that supports real business needs.
+</p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Operational Control</h3>
+
+<p>
+We connect sales, purchasing, inventory, accounting, approvals, and reporting into one integrated and controlled ERP cycle.
+</p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Scalable Growth</h3>
+
+<p>
+We build Odoo environments that are easy to use, easy to control, and ready to grow with the business after go-live.
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Odoo%20Partner-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/ERP%20Implementation-005B96?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Business%20Automation-34495E?style=for-the-badge"/>

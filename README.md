@@ -24,49 +24,118 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 We help businesses transform their operations from manual processes and scattered Excel sheets into a fully integrated ERP environment using **Odoo**.
 
 ---
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💼 Our Services
+<h2>💼 Our Services</h2>
 
-- Odoo ERP Implementation
-- Business Process Analysis
-- Accounting & Financial Consulting
-- Odoo Functional Training
-- Data Migration & System Configuration
-- Business Automation
-- Post-Go-Live Support
-- Reports & Dashboards Setup
+<ul>
+  <li><b>Odoo ERP Implementation</b></li>
+  <li><b>Business Process Analysis</b></li>
+  <li><b>Accounting & Financial Consulting</b></li>
+  <li><b>Odoo Functional Training</b></li>
+  <li><b>Data Migration & System Configuration</b></li>
+  <li><b>Business Automation</b></li>
+  <li><b>Post-Go-Live Support</b></li>
+  <li><b>Reports & Dashboards Setup</b></li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>🚀 Implementation Approach</h2>
+
+<ul>
+  <li><b>Discovery & Requirement Analysis</b></li>
+  <li><b>Solution Design & Process Mapping</b></li>
+  <li><b>Odoo Configuration & Customization</b></li>
+  <li><b>Data Preparation & Migration</b></li>
+  <li><b>User Training & UAT</b></li>
+  <li><b>Go-Live Support</b></li>
+  <li><b>Post-Go-Live Optimization</b></li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>🧩 Odoo Modules We Work With</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Accounting-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sales-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Purchase-1F7A8C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inventory-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRM-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manufacturing-8B4513?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Expenses-708090?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HR-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POS-B22222?style=for-the-badge"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>📊 Business Value</h2>
+
+<ul>
+  <li><b>Better financial control</b></li>
+  <li><b>Integrated operations</b></li>
+  <li><b>Automated workflows</b></li>
+  <li><b>Real-time reporting</b></li>
+  <li><b>Reduced manual work</b></li>
+  <li><b>Improved management visibility</b></li>
+  <li><b>Scalable ERP structure</b></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Odoo Modules We Work With
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Accounting
-- Sales
-- Purchase
-- Inventory
-- CRM
-- Manufacturing
-- Project
-- Expenses
-- HR
-- POS
-- Website
-- Approvals
-- Documents
+<h2>🎯 Industries We Serve</h2>
 
----
+<ul>
+  <li><b>Trading & Distribution</b></li>
+  <li><b>Manufacturing</b></li>
+  <li><b>Food & FMCG</b></li>
+  <li><b>Contracting</b></li>
+  <li><b>Services</b></li>
+  <li><b>Retail & POS</b></li>
+  <li><b>Localization & Translation Services</b></li>
+</ul>
 
-## 🎯 Industries We Serve
+</td>
+<td width="50%" valign="top">
 
-- Trading & Distribution
-- Manufacturing
-- Food & FMCG
-- Contracting
-- Services
-- Retail & POS
-- Localization & Translation Services
+<h2>⭐ Why Businesses Choose Us</h2>
 
----
+<ul>
+  <li><b>Strong accounting background</b></li>
+  <li><b>Practical implementation methodology</b></li>
+  <li><b>Business-first ERP consulting</b></li>
+  <li><b>Clear project scope and timeline</b></li>
+  <li><b>Professional documentation</b></li>
+  <li><b>User-focused training</b></li>
+  <li><b>Continuous support after go-live</b></li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ## 🌟 Why Pro Solutions?
 

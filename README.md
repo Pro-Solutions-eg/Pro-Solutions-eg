@@ -73,10 +73,10 @@ We help businesses transform their operations from manual processes and scattere
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@prosolutions.com  
-📱 WhatsApp: https://wa.me/201021888448  
-💼 LinkedIn: your-linkedin-page  
-🌐 Website: your-website-link  
+📧 Email: [Info@prosolutionseg.com](mailto:Info@prosolutionseg.com)  
+📱 WhatsApp: [https://wa.me/201021888448](https://wa.me/201021888448)  
+💼 LinkedIn: [Pro Finance Consulting](https://www.linkedin.com/company/pro-finance-consulting/)  
+🌐 Website: [prosolutionseg.com](https://prosolutionseg.com)  
 
 ---
 

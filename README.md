@@ -2,8 +2,13 @@
 
 # 👋 Welcome to Pro Solutions
 
-### Odoo Partner | ERP Implementation | Business Automation | Consulting
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" height="24" />
+</p>
 
+<h3 align="center">
+  Odoo Partner | ERP Implementation | Business Automation | Consulting
+</h3>
 ![Profile Views](https://komarev.com/ghpvc/?username=Pro-Solutions-eg&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>

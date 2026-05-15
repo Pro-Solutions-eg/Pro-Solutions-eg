@@ -37,10 +37,11 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 <tr>
 <td width="100%" valign="top">
 
-<h3 align="center">🔗 Turning Business Complexity into a Connected Odoo System</h3>
+<h3 align="center">🌐 Turning Business Complexity into a Connected Odoo System</h3>
 
 <p align="center">
-<strong>Pro Solutions</strong> is an Odoo Partner focused on helping companies build smarter, more controlled, and scalable business operations through Odoo ERP.
+<strong>Pro Solutions</strong> is an Odoo Partner helping companies build smarter, controlled, and scalable operations<br/>
+through Odoo ERP.
 </p>
 
 <p align="center">

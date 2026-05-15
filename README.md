@@ -35,18 +35,21 @@ We help businesses move from manual processes, scattered Excel sheets, and disco
 <td width="33%" valign="top">
 
 ### 🧩 ERP Implementation
+
 We implement Odoo based on real business needs, clear scope, and structured delivery.
 
 </td>
 <td width="33%" valign="top">
 
 ### 📊 Accounting & Finance
+
 We support companies with accounting setup, financial control, reporting, and ERP-based finance processes.
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚙️ Business Automation
+
 We automate workflows across sales, purchasing, inventory, accounting, operations, and approvals.
 
 </td>
@@ -57,15 +60,36 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 
 ## 🧠 Our Implementation Approach
 
-| Phase | Description |
-|---|---|
-| **01. Discovery** | Understand business requirements, pain points, and current processes |
-| **02. Solution Design** | Define the best-fit Odoo structure, workflows, and configuration approach |
-| **03. Configuration** | Configure Odoo modules, master data, users, permissions, and workflows |
-| **04. Data Migration** | Prepare and import opening balances, customers, vendors, products, and other data |
-| **05. Training & UAT** | Train key users and validate business cycles before go-live |
-| **06. Go-Live Support** | Support users during launch and stabilize the system |
-| **07. Post-Go-Live Optimization** | Improve reports, processes, controls, and system usage after go-live |
+<table>
+<tr>
+<td width="14%" align="center"><b>01</b><br/>Discovery</td>
+<td width="86%">Understand business requirements, pain points, current workflows, and project objectives.</td>
+</tr>
+<tr>
+<td align="center"><b>02</b><br/>Solution Design</td>
+<td>Define the best-fit Odoo structure, process flows, modules, roles, and configuration approach.</td>
+</tr>
+<tr>
+<td align="center"><b>03</b><br/>Configuration</td>
+<td>Configure Odoo modules, users, permissions, workflows, master data, and required settings.</td>
+</tr>
+<tr>
+<td align="center"><b>04</b><br/>Data Migration</td>
+<td>Prepare and import customers, vendors, products, opening balances, and operational data.</td>
+</tr>
+<tr>
+<td align="center"><b>05</b><br/>Training & UAT</td>
+<td>Train key users, validate business cycles, and collect feedback before go-live.</td>
+</tr>
+<tr>
+<td align="center"><b>06</b><br/>Go-Live</td>
+<td>Support users during launch, monitor transactions, and stabilize the system.</td>
+</tr>
+<tr>
+<td align="center"><b>07</b><br/>Optimization</td>
+<td>Improve reports, controls, processes, and system usage after go-live.</td>
+</tr>
+</table>
 
 ---
 
@@ -74,15 +98,15 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 <p align="center">
   <img src="https://img.shields.io/badge/Accounting-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sales-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Purchase-1F7A8C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inventory-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CRM-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Manufacturing-8B4513?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Expenses-708090?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HR-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POS-B22222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Approvals-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Purchase-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Inventory-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRM-714B67?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manufacturing-714B67?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Expenses-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HR-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POS-714B67?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Approvals-005B96?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Documents-34495E?style=for-the-badge"/>
 </p>
 
@@ -90,26 +114,16 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 
 ## 🎯 Industries We Serve
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- Trading & Distribution  
-- Manufacturing  
-- Food & FMCG  
-- Contracting  
-
-</td>
-<td width="50%" valign="top">
-
-- Services  
-- Retail & POS  
-- Localization & Translation Services  
-- Professional Services  
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Trading%20%26%20Distribution-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manufacturing-714B67?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Food%20%26%20FMCG-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contracting-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Services-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Retail%20%26%20POS-714B67?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Localization%20%26%20Translation-005B96?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Professional%20Services-34495E?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -155,20 +169,37 @@ We provide user training, go-live support, and continuous improvement after impl
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pro-Solutions-eg&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pro-Solutions-eg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=714B67" alt="Pro Solutions GitHub Stats" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=Pro-Solutions-eg&theme=tokyonight&hide_border=true&background=0D1117&stroke=714B67&ring=714B67&fire=714B67&currStreakLabel=C9D1D9" alt="Pro Solutions GitHub Streak" width="48%"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  📧 <a href="mailto:Info@prosolutionseg.com">Info@prosolutionseg.com</a> &nbsp; | &nbsp;
-  🌐 <a href="https://prosolutionseg.com">prosolutionseg.com</a> &nbsp; | &nbsp;
-  💼 <a href="https://www.linkedin.com/company/pro-finance-consulting/">LinkedIn</a> &nbsp; | &nbsp;
-  📱 <a href="https://wa.me/201021888448">WhatsApp</a>
-</p>
+<div align="center">
+
+<a href="mailto:Info@prosolutionseg.com">
+  <img src="https://img.shields.io/badge/Email-Info@prosolutionseg.com-714B67?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://prosolutionseg.com">
+  <img src="https://img.shields.io/badge/Website-prosolutionseg.com-005B96?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/company/pro-finance-consulting/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pro%20Finance%20Consulting-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201021888448">
+  <img src="https://img.shields.io/badge/WhatsApp-+20%20102%201888%20448-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 

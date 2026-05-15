@@ -4,7 +4,9 @@
 
 <p>
   <img src="./prosolutions-logo-transparent.png.png" alt="Pro Solutions Logo" width="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://dummyimage.com/3x90/714B67/714B67.png" alt="Divider" width="3" height="90"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="./odoo-logo.png" alt="Odoo Logo" width="190"/>
 </p>
 

@@ -138,61 +138,108 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 
 ## 🧩 Odoo Modules We Work With
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Accounting-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sales-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Purchase-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inventory-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/CRM-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Manufacturing-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Project-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expenses-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/HR-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/POS-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Approvals-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Documents-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
-
-</div>
-
-<br/>
-
 <table>
 <tr>
-<td align="center" width="16%">
+<td align="center" width="25%">
 
 ### 🧾  
 **Accounting**
 
+Financial entries, taxes, journals, reports, and controls.
+
 </td>
-<td align="center" width="16%">
+<td align="center" width="25%">
 
 ### 🛒  
 **Sales**
 
+Quotations, sales orders, pricing, invoicing, and customer flow.
+
 </td>
-<td align="center" width="16%">
+<td align="center" width="25%">
 
 ### 🏷️  
 **Purchase**
 
+RFQs, purchase orders, vendor bills, and supplier management.
+
 </td>
-<td align="center" width="16%">
+<td align="center" width="25%">
 
 ### 📦  
 **Inventory**
 
+Warehouses, stock moves, receipts, deliveries, and valuation.
+
 </td>
-<td align="center" width="16%">
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 🤝  
+**CRM**
+
+Leads, opportunities, pipeline tracking, and sales activities.
+
+</td>
+<td align="center" width="25%">
 
 ### 🏭  
 **Manufacturing**
 
-</td>
-<td align="center" width="16%">
+BOMs, work orders, production flows, and costing support.
 
-### 📊  
-**Reports**
+</td>
+<td align="center" width="25%">
+
+### 📋  
+**Project**
+
+Tasks, milestones, team assignments, and project tracking.
+
+</td>
+<td align="center" width="25%">
+
+### 💳  
+**Expenses**
+
+Employee expenses, approvals, reimbursements, and accounting links.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 👥  
+**HR**
+
+Employees, attendance, leaves, contracts, and HR operations.
+
+</td>
+<td align="center" width="25%">
+
+### 🧾  
+**POS**
+
+Retail sales, cashier flow, sessions, payments, and stock integration.
+
+</td>
+<td align="center" width="25%">
+
+### ✅  
+**Approvals**
+
+Approval workflows for purchases, expenses, requests, and controls.
+
+</td>
+<td align="center" width="25%">
+
+### 📁  
+**Documents**
+
+Document management, attachments, approvals, and digital filing.
 
 </td>
 </tr>
@@ -209,11 +256,15 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 ### 🚚  
 **Trading & Distribution**
 
+Sales, purchasing, inventory, customer balances, and supplier flow.
+
 </td>
 <td align="center" width="25%">
 
 ### 🏭  
 **Manufacturing**
+
+Production, costing, BOMs, work centers, and inventory valuation.
 
 </td>
 <td align="center" width="25%">
@@ -221,11 +272,15 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 ### 🍽️  
 **Food & FMCG**
 
+Fast-moving products, stock control, sales operations, and distribution.
+
 </td>
 <td align="center" width="25%">
 
 ### 🏗️  
 **Contracting**
+
+Project costing, expenses, accounting, procurement, and reporting.
 
 </td>
 </tr>
@@ -236,11 +291,15 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 ### 🧑‍💼  
 **Services**
 
+Service delivery, invoicing, projects, tasks, and customer management.
+
 </td>
 <td align="center" width="25%">
 
 ### 🛍️  
 **Retail & POS**
+
+POS operations, branches, cashier control, inventory, and reporting.
 
 </td>
 <td align="center" width="25%">
@@ -248,11 +307,15 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 ### 🌍  
 **Localization & Translation**
 
+Multi-company, project tracking, vendor management, and service costing.
+
 </td>
 <td align="center" width="25%">
 
 ### 💼  
 **Professional Services**
+
+Consulting, timesheets, project billing, CRM, and management reporting.
 
 </td>
 </tr>

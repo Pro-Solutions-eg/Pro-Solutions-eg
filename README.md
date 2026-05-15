@@ -58,36 +58,79 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 
 ---
 
-## 🧠 Our Implementation Approach
+## 🧠 Our Implementation Roadmap
 
 <table>
 <tr>
-<td width="14%" align="center"><b>01</b><br/>Discovery</td>
-<td width="86%">Understand business requirements, pain points, current workflows, and project objectives.</td>
+<td width="33%" valign="top">
+
+### 🔍 01. Discovery
+
+Understand business requirements, pain points, current workflows, and project objectives.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏗️ 02. Solution Design
+
+Define the best-fit Odoo structure, process flows, modules, roles, and configuration approach.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ 03. Configuration
+
+Configure Odoo modules, users, permissions, workflows, master data, and required settings.
+
+</td>
 </tr>
+
 <tr>
-<td align="center"><b>02</b><br/>Solution Design</td>
-<td>Define the best-fit Odoo structure, process flows, modules, roles, and configuration approach.</td>
+<td width="33%" valign="top">
+
+### 📦 04. Data Migration
+
+Prepare and import customers, vendors, products, opening balances, and operational data.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎓 05. Training & UAT
+
+Train key users, validate business cycles, and collect feedback before go-live.
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 06. Go-Live Support
+
+Support users during launch, monitor transactions, and stabilize the system.
+
+</td>
 </tr>
+
 <tr>
-<td align="center"><b>03</b><br/>Configuration</td>
-<td>Configure Odoo modules, users, permissions, workflows, master data, and required settings.</td>
-</tr>
-<tr>
-<td align="center"><b>04</b><br/>Data Migration</td>
-<td>Prepare and import customers, vendors, products, opening balances, and operational data.</td>
-</tr>
-<tr>
-<td align="center"><b>05</b><br/>Training & UAT</td>
-<td>Train key users, validate business cycles, and collect feedback before go-live.</td>
-</tr>
-<tr>
-<td align="center"><b>06</b><br/>Go-Live</td>
-<td>Support users during launch, monitor transactions, and stabilize the system.</td>
-</tr>
-<tr>
-<td align="center"><b>07</b><br/>Optimization</td>
-<td>Improve reports, controls, processes, and system usage after go-live.</td>
+<td width="33%" valign="top">
+
+### 📈 07. Optimization
+
+Improve reports, controls, processes, and system usage after go-live.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Quality Control
+
+Review configuration, access rights, accounting impact, and operational readiness.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤝 Continuous Support
+
+Provide post-go-live assistance, reporting improvements, and process enhancement.
+
+</td>
 </tr>
 </table>
 
@@ -95,35 +138,125 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 
 ## 🧩 Odoo Modules We Work With
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Accounting-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sales-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Purchase-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Inventory-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CRM-714B67?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Manufacturing-714B67?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Expenses-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HR-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POS-714B67?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Approvals-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Documents-34495E?style=for-the-badge"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Accounting-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sales-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Purchase-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inventory-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/CRM-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manufacturing-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expenses-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/HR-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/POS-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Approvals-005B96?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Documents-34495E?style=for-the-badge&logo=odoo&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+### 🧾  
+**Accounting**
+
+</td>
+<td align="center" width="16%">
+
+### 🛒  
+**Sales**
+
+</td>
+<td align="center" width="16%">
+
+### 🏷️  
+**Purchase**
+
+</td>
+<td align="center" width="16%">
+
+### 📦  
+**Inventory**
+
+</td>
+<td align="center" width="16%">
+
+### 🏭  
+**Manufacturing**
+
+</td>
+<td align="center" width="16%">
+
+### 📊  
+**Reports**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Industries We Serve
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Trading%20%26%20Distribution-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Manufacturing-714B67?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Food%20%26%20FMCG-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Contracting-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Services-34495E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Retail%20%26%20POS-714B67?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Localization%20%26%20Translation-005B96?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Professional%20Services-34495E?style=for-the-badge"/>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🚚  
+**Trading & Distribution**
+
+</td>
+<td align="center" width="25%">
+
+### 🏭  
+**Manufacturing**
+
+</td>
+<td align="center" width="25%">
+
+### 🍽️  
+**Food & FMCG**
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️  
+**Contracting**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 🧑‍💼  
+**Services**
+
+</td>
+<td align="center" width="25%">
+
+### 🛍️  
+**Retail & POS**
+
+</td>
+<td align="center" width="25%">
+
+### 🌍  
+**Localization & Translation**
+
+</td>
+<td align="center" width="25%">
+
+### 💼  
+**Professional Services**
+
+</td>
+</tr>
+</table>
 
 ---
 

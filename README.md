@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="waving hand"/>
+  <img src="https://media.tenor.com/4o5p18Q6B0gAAAAi/robot-wave.gif" width="38" alt="waving robot"/>
   Welcome to Pro Solutions
 </h1>
 

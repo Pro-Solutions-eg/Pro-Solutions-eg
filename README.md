@@ -386,16 +386,9 @@ Looking to implement Odoo, automate your business, improve financial control, or
 </p>
 
 <p>
-<strong>Start the conversation with Pro Solutions.</strong>
+<strong>Connect with Pro Solutions through the channels below.</strong>
 </p>
 
-<br/>
-
-<a href="https://wa.me/201021888448">
-  <img src="https://custom-icon-badges.demolab.com/badge/Book%20a%20Discovery%20Call-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1F2937"/>
-</a>
-
-<br/>
 <br/>
 
 <table>

@@ -367,16 +367,15 @@ We provide user training, go-live support, and continuous improvement after impl
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="40%">
+<a href="https://github.com/Pro-Solutions-eg">
   <img src="./prosolutions-logo-transparent.png.png" alt="Pro Solutions Logo" width="180"/>
-</td>
-<td align="center" width="60%">
-  <img src="https://streak-stats.demolab.com?user=Pro-Solutions-eg&theme=tokyonight&hide_border=true&background=0D1117&stroke=714B67&ring=714B67&fire=714B67&currStreakLabel=C9D1D9" alt="Pro Solutions GitHub Streak" width="95%"/>
-</td>
-</tr>
-</table>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Pro-Solutions-eg">
+  <img src="https://streak-stats.demolab.com?user=Pro-Solutions-eg&theme=tokyonight&hide_border=true&background=0D1117&stroke=714B67&ring=714B67&fire=714B67&currStreakLabel=C9D1D9" alt="Pro Solutions GitHub Streak" width="58%"/>
+</a>
 
 </div>
 

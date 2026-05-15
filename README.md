@@ -1,3 +1,5 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
 <h1>
@@ -25,7 +27,9 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 
 ---
 
-## About Pro Solutions
+<!-- ===================== ABOUT ===================== -->
+
+## 🚀 About Pro Solutions
 
 <div align="center">
 
@@ -33,7 +37,7 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
 <tr>
 <td width="100%" valign="top">
 
-<h3 align="center">Turning Business Complexity into a Connected Odoo System</h3>
+<h3 align="center">🚀 Turning Business Complexity into a Connected Odoo System</h3>
 
 <p align="center">
 <strong>Pro Solutions</strong> is an Odoo Partner focused on helping companies build smarter, more controlled, and scalable business operations through Odoo ERP.
@@ -51,7 +55,7 @@ We combine <strong>ERP implementation</strong>, <strong>business automation</str
 <tr>
 <td width="33%" align="center" valign="top">
 
-<h3>Business Clarity</h3>
+<h3>🔎 Business Clarity</h3>
 
 <p>
 We analyze current workflows, pain points, and operational gaps to design a practical Odoo structure that supports real business needs.
@@ -60,7 +64,7 @@ We analyze current workflows, pain points, and operational gaps to design a prac
 </td>
 <td width="33%" align="center" valign="top">
 
-<h3>Operational Control</h3>
+<h3>⚙️ Operational Control</h3>
 
 <p>
 We connect sales, purchasing, inventory, accounting, approvals, and reporting into one integrated and controlled ERP cycle.
@@ -69,7 +73,7 @@ We connect sales, purchasing, inventory, accounting, approvals, and reporting in
 </td>
 <td width="33%" align="center" valign="top">
 
-<h3>Scalable Growth</h3>
+<h3>📈 Scalable Growth</h3>
 
 <p>
 We build Odoo environments that are easy to use, easy to control, and ready to grow with the business after go-live.
@@ -82,6 +86,8 @@ We build Odoo environments that are easy to use, easy to control, and ready to g
 </div>
 
 ---
+
+<!-- ===================== WHAT WE DO ===================== -->
 
 ## 💼 What We Do
 
@@ -112,6 +118,8 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 </table>
 
 ---
+
+<!-- ===================== IMPLEMENTATION ROADMAP ===================== -->
 
 ## 🧠 Our Implementation Roadmap
 
@@ -190,6 +198,8 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 </table>
 
 ---
+
+<!-- ===================== ODOO MODULES ===================== -->
 
 ## 🧩 Odoo Modules We Work With
 
@@ -302,6 +312,8 @@ Document management, attachments, approvals, and digital filing.
 
 ---
 
+<!-- ===================== INDUSTRIES ===================== -->
+
 ## 🎯 Industries We Serve
 
 <table>
@@ -378,6 +390,8 @@ Consulting, timesheets, project billing, CRM, and management reporting.
 
 ---
 
+<!-- ===================== WHY PRO SOLUTIONS ===================== -->
+
 ## 🌟 Why Pro Solutions?
 
 <table>
@@ -418,6 +432,8 @@ We provide user training, go-live support, and continuous improvement after impl
 
 ---
 
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -429,6 +445,8 @@ We provide user training, go-live support, and continuous improvement after impl
 </div>
 
 ---
+
+<!-- ===================== CONTACT ===================== -->
 
 ## 🤝 Let's Connect
 
@@ -515,6 +533,8 @@ Looking to implement Odoo, automate your business, improve financial control, or
 </div>
 
 ---
+
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 

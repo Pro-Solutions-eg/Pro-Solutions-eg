@@ -23,34 +23,11 @@ Odoo Partner | ERP Implementation | Business Automation | Consulting
   <img src="https://komarev.com/ghpvc/?username=Pro-Solutions-eg&label=Profile%20Views&color=714B67&style=flat" alt="Profile Views"/>
 </p>
 
-<p>
-  <a href="#about-pro-solutions">
-    <img src="https://img.shields.io/badge/About-Pro%20Solutions-714B67?style=for-the-badge"/>
-  </a>
-  <a href="#what-we-do">
-    <img src="https://img.shields.io/badge/What%20We%20Do-Services-005B96?style=for-the-badge"/>
-  </a>
-  <a href="#implementation-roadmap">
-    <img src="https://img.shields.io/badge/Roadmap-Implementation-34495E?style=for-the-badge"/>
-  </a>
-  <a href="#odoo-modules">
-    <img src="https://img.shields.io/badge/Odoo-Modules-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-  </a>
-  <a href="#industries">
-    <img src="https://img.shields.io/badge/Industries-We%20Serve-005B96?style=for-the-badge"/>
-  </a>
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-Let's%20Connect-25D366?style=for-the-badge"/>
-  </a>
-</p>
-
 </div>
 
 ---
 
 <!-- ===================== ABOUT ===================== -->
-
-<a id="about-pro-solutions"></a>
 
 ## 🚀 About Pro Solutions
 
@@ -113,8 +90,6 @@ We build Odoo environments that are easy to use, easy to control, and ready to g
 
 <!-- ===================== WHAT WE DO ===================== -->
 
-<a id="what-we-do"></a>
-
 ## 💼 What We Do
 
 <table>
@@ -146,8 +121,6 @@ We automate workflows across sales, purchasing, inventory, accounting, operation
 ---
 
 <!-- ===================== IMPLEMENTATION ROADMAP ===================== -->
-
-<a id="implementation-roadmap"></a>
 
 ## 🧠 Our Implementation Roadmap
 
@@ -228,8 +201,6 @@ Provide post-go-live assistance, reporting improvements, and process enhancement
 ---
 
 <!-- ===================== ODOO MODULES ===================== -->
-
-<a id="odoo-modules"></a>
 
 ## 🧩 Odoo Modules We Work With
 
@@ -344,8 +315,6 @@ Document management, attachments, approvals, and digital filing.
 
 <!-- ===================== INDUSTRIES ===================== -->
 
-<a id="industries"></a>
-
 ## 🎯 Industries We Serve
 
 <table>
@@ -424,8 +393,6 @@ Consulting, timesheets, project billing, CRM, and management reporting.
 
 <!-- ===================== WHY PRO SOLUTIONS ===================== -->
 
-<a id="why-pro-solutions"></a>
-
 ## 🌟 Why Pro Solutions?
 
 <table>
@@ -468,8 +435,6 @@ We provide user training, go-live support, and continuous improvement after impl
 
 <!-- ===================== GITHUB ACTIVITY ===================== -->
 
-<a id="github-activity"></a>
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -483,8 +448,6 @@ We provide user training, go-live support, and continuous improvement after impl
 ---
 
 <!-- ===================== CONTACT ===================== -->
-
-<a id="contact"></a>
 
 ## 🤝 Let's Connect
 

@@ -379,43 +379,90 @@ We provide user training, go-live support, and continuous improvement after impl
 
 <div align="center">
 
-### Ready to discuss your Odoo project?
+<h2>Business Inquiry Hub</h2>
 
 <p>
-Connect with Pro Solutions for ERP implementation, business automation, accounting consulting, and Odoo support.
+Looking to implement Odoo, automate your business, improve financial control, or optimize your ERP operations?
+</p>
+
+<p>
+<strong>Start the conversation with Pro Solutions.</strong>
 </p>
 
 <br/>
 
 <a href="https://wa.me/201021888448">
-  <img src="https://img.shields.io/badge/Start%20a%20Conversation-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1F2937" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Book%20a%20Discovery%20Call-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1F2937"/>
 </a>
 
 <br/>
 <br/>
 
-<kbd>
-<a href="mailto:Info@prosolutionseg.com">📧 Email</a>
-</kbd>
-&nbsp;&nbsp;
+<table>
+<tr>
+<td align="center" width="25%">
 
-<kbd>
-<a href="https://prosolutionseg.com">🌐 Website</a>
-</kbd>
-&nbsp;&nbsp;
+### 📧 Email
 
-<kbd>
-<a href="https://www.linkedin.com/company/pro-finance-consulting/">💼 LinkedIn</a>
-</kbd>
+<a href="mailto:Info@prosolutionseg.com">
+  <img src="https://custom-icon-badges.demolab.com/badge/Contact%20Us-Email-714B67?style=for-the-badge&logo=mail&logoColor=white&labelColor=1F2937"/>
+</a>
 
 <br/>
+
+<sub>Info@prosolutionseg.com</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 Website
+
+<a href="https://prosolutionseg.com">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visit-Website-005B96?style=for-the-badge&logo=globe&logoColor=white&labelColor=1F2937"/>
+</a>
+
 <br/>
 
-<sub>
-📧 Info@prosolutionseg.com &nbsp; | &nbsp;
-🌐 prosolutionseg.com &nbsp; | &nbsp;
-📱 +20 102 1888 448
-</sub>
+<sub>prosolutionseg.com</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 💼 LinkedIn
+
+<a href="https://www.linkedin.com/company/pro-finance-consulting/">
+  <img src="https://custom-icon-badges.demolab.com/badge/Follow-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937"/>
+</a>
+
+<br/>
+
+<sub>Pro Finance Consulting</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 📱 WhatsApp
+
+<a href="https://wa.me/201021888448">
+  <img src="https://custom-icon-badges.demolab.com/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1F2937"/>
+</a>
+
+<br/>
+
+<sub>+20 102 1888 448</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/ERP%20Implementation-714B67?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Business%20Automation-005B96?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Odoo%20Support-34495E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Accounting%20Consulting-714B67?style=flat-square"/>
+</p>
 
 </div>
 

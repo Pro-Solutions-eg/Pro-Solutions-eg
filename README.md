@@ -379,7 +379,7 @@ We provide user training, go-live support, and continuous improvement after impl
 
 <div align="center">
 
-<h3>Ready to discuss your Odoo project?</h3>
+### Ready to discuss your Odoo project?
 
 <p>
 Connect with Pro Solutions for ERP implementation, business automation, accounting consulting, and Odoo support.
@@ -394,17 +394,28 @@ Connect with Pro Solutions for ERP implementation, business automation, accounti
 <br/>
 <br/>
 
-<a href="mailto:Info@prosolutionseg.com">
-  <img src="https://img.shields.io/badge/Email-Info%40prosolutionseg.com-714B67?style=flat-square&logo=gmail&logoColor=white&labelColor=1F2937" />
-</a>
+<kbd>
+<a href="mailto:Info@prosolutionseg.com">📧 Email</a>
+</kbd>
+&nbsp;&nbsp;
 
-<a href="https://prosolutionseg.com">
-  <img src="https://img.shields.io/badge/Website-prosolutionseg.com-005B96?style=flat-square&logo=google-chrome&logoColor=white&labelColor=1F2937" />
-</a>
+<kbd>
+<a href="https://prosolutionseg.com">🌐 Website</a>
+</kbd>
+&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/company/pro-finance-consulting/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pro%20Finance%20Consulting-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1F2937" />
-</a>
+<kbd>
+<a href="https://www.linkedin.com/company/pro-finance-consulting/">💼 LinkedIn</a>
+</kbd>
+
+<br/>
+<br/>
+
+<sub>
+📧 Info@prosolutionseg.com &nbsp; | &nbsp;
+🌐 prosolutionseg.com &nbsp; | &nbsp;
+📱 +20 102 1888 448
+</sub>
 
 </div>
 

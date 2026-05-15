@@ -3,7 +3,7 @@
 <h1>👋 Welcome to Pro Solutions</h1>
 
 <p align="center">
-<img src="./prosolutions-logo.png" alt="Pro Solutions Logo" width="140"/>
+<img src="./prosolutions-logo.png.png" alt="Pro Solutions Logo" width="140"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./odoo-logo.png" alt="Odoo Logo" width="180"/>
 </p>

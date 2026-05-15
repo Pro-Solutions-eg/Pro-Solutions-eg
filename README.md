@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://media.tenor.com/4o5p18Q6B0gAAAAi/robot-wave.gif" width="38" alt="waving robot"/>
+  <img src="./robot-welcome.gif" width="42" alt="Welcome Robot"/>
   Welcome to Pro Solutions
 </h1>
 
